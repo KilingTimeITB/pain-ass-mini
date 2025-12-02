@@ -139,7 +139,8 @@ padding-left: 16px;
     align-items: center;}
     
        .footer__logo{
-         mmax-width:480px;margin-bottom: 16px;}
+         max-width:480px;
+         margin-bottom: 16px;}
 
 
          .footer__links{margin-bottom: 32px;}
